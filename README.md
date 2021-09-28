@@ -1,2 +1,2 @@
-# coolly.gitee.io
-coolly.gitee.io
+# coolly-wu.gitee.io
+coolly-wu.gitee.io
